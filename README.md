@@ -1,6 +1,14 @@
 # java_spring
 
-## Making GET Requests with Curl
+##GET Requests
+
+### with Curl
 ```
 curl localhost:4001/<filename>
+```
+OR
+
+### with a Web Browser
+```
+http://localhost:4001/<filename>/
 ```
