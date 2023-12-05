@@ -1,6 +1,6 @@
 # java_spring
 
-##GET Requests
+## GET Requests
 
 ### with Curl
 ```
