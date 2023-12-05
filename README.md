@@ -28,3 +28,7 @@ OR
 ```
 http://localhost:4001/<filename>.html  -> submit
 ```
+output
+```
+{"name":"Pizza Hut","line1":"123 Main St.","city":"San Diego","state":"CA","zipCode":"90029"}$
+```
