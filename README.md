@@ -20,11 +20,11 @@ http://localhost:4001/<filename>/
 
 ### with Curl
 ```
-curl localhost:4001/<filename>
+curl -X POST -d "{\"name\":\"Pizza Hut\", \"line1\":\"123 Main St.\", \"city\":\"San Diego\", \"state\":\"CA\", \"zipCode\":\"90029\"}" -H "Content-Type: application/json" http://localhost:4001/<filename>/
 ```
 OR
 
 ### with a Web Browser
 ```
-http://localhost:4001/<filename>/
+http://localhost:4001/<filename>.html  -> submit
 ```
