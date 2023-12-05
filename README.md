@@ -3,6 +3,8 @@
 + Spring back-end applications in action
 + Testing APIs with the curl command-line tool
 
+IDE: IntelliJ 
+
 ## GET Requests
 
 ### with Curl
